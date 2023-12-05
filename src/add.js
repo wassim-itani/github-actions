@@ -1,7 +1,7 @@
 /**
  * Adds two numbers
- * @param {*} num1 - The first number
- * @param {*} num2 - The second number
+ * @param {number} num1 - The first number
+ * @param {number} num2 - The second number
  * @returns The sum of first and second number
  */
 
